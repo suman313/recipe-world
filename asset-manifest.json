@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/recipe-world/static/css/main.e210e9b8.css",
-    "main.js": "/recipe-world/static/js/main.64e2d33a.js",
+    "main.js": "/recipe-world/static/js/main.08bba022.js",
     "static/media/Patrisha's1.png": "/recipe-world/static/media/Patrisha's1.0bc89c2629e82e9e2af0.png",
     "index.html": "/recipe-world/index.html",
     "main.e210e9b8.css.map": "/recipe-world/static/css/main.e210e9b8.css.map",
-    "main.64e2d33a.js.map": "/recipe-world/static/js/main.64e2d33a.js.map"
+    "main.08bba022.js.map": "/recipe-world/static/js/main.08bba022.js.map"
   },
   "entrypoints": [
     "static/css/main.e210e9b8.css",
-    "static/js/main.64e2d33a.js"
+    "static/js/main.08bba022.js"
   ]
 }
